@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align="center">
+<a href="https://github.com/X-D-Lab"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+<a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
+<a href="https://huggingface.co/X-D-Lab"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
+</p>
 🙋‍♀️ 本组织由华东理工大学薛栋副教授主导，专注于大规模语言模型在垂直应用场景的建设  
 
 🌈 如果你对LLM感兴趣, 或者你对上述的任何一个技术场景感兴趣, 欢迎加入我们!  
