@@ -35,6 +35,6 @@
 
 ## 对外宣发
 * 【科学网】人皆孤独? 他们用通义千问开发了一款心理大模型 \| [\[链接\]](https://news.sciencenet.cn/htmlnews/2023/12/513458.shtm?bsh_bid=5975565683)
-* 【阿里云】用大模型建一座心理诊所，它会共情吗？ \| [\[链接\]]([https://news.sciencenet.cn/htmlnews/2023/12/513458.shtm?bsh_bid=5975565683](https://www.bilibili.com/video/BV1Sc411q7oU/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a))
+* 【阿里云】用大模型建一座心理诊所，它会共情吗？ \| [\[链接\]](https://www.bilibili.com/video/BV1Sc411q7oU/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a)
 * 【魔搭ModelScope社区】基于Qwen-7B的垂域大模型——MindChat(漫谈)心理大模型上线魔搭 \| [\[链接\]](https://mp.weixin.qq.com/s/frJwp-kLuF_aT_vt8V6hJQ)
 * 【OpenMMLab】EMO 了? 来和 MindChat 聊聊, 可在线体验的 AI 心理大模型 \| [\[链接\]](https://mp.weixin.qq.com/s/wOQP2A0nm0OGaiwzdJ9wPg)
