@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 </div>
-<div align=center><img src ="./assets/竖黑-透明@5x.png"/></div> 
 
 🙋‍♀️ 本组织由华东理工大学薛栋课题组主导, 专注于人工智能与大数据理论方法以及在不同行业垂直应用场景的建设:
 
